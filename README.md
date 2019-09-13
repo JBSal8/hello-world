@@ -1,3 +1,6 @@
+#Hola mundo
+Hola quiero aprender inteligencia artificial para que haga mi trabajo mas facil y rapido.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
