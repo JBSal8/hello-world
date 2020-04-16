@@ -1,5 +1,5 @@
 #Hola mundo
-Hola quiero aprender inteligencia artificial para que haga mi trabajo mas facil y rapido.
+Hola quiero aprender a programar. Me gustan las hamburguesas.
 
 # Welcome to GitHub
 
